@@ -1,0 +1,13 @@
+# Data files that should NOT be pushed to GitHub
+*.csv
+*.parquet
+*.zip
+data/
+
+# Jupyter and Python temporary files
+.ipynb_checkpoints
+__pycache__/
+
+# Virtual environment files
+venv/
+.venv/
